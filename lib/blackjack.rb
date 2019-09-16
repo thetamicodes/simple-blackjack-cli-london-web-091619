@@ -64,5 +64,6 @@ def runner(card_total)
   welcome
   initial_round
   card_total = 0 
-  while 
+  while card_total < 21 do
+    
     
