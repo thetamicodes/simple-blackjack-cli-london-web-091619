@@ -63,5 +63,6 @@ end
 def runner(card_total)
   welcome
   initial_round
-  
+  card_total = 0 
+  while 
     
