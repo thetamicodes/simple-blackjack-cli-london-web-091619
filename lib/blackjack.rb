@@ -66,7 +66,7 @@ def runner(card_total = 0)
   hit? until card_total == 22
     puts display_card_total
     card_total += 1 
-      end_game
+    end_game
     end
   end
 end 
